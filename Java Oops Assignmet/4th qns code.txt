@@ -1,4 +1,4 @@
-package com.naveen;
+package com.mahesh;
 
 import java.util.Scanner;
 
