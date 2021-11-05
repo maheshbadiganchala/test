@@ -5,12 +5,12 @@ public class GenericMethod {
 
     public static void main(String a[]){
         ArrayList<String> al = new ArrayList<String>();
-        al.add("Naveen");
-        al.add("Kumar");
-        al.add("Nikesh");
-        al.add("Shivadeep");
-        al.add("Durga");
-        al.add("Shivaji");
+        al.add("Mahesh");
+        al.add("Pandu");
+        al.add("Naga Venkatesh");
+        al.add("Sandeep");
+        al.add("Harish");
+        al.add("Ganesh");
 
         System.out.println("ArrayList before Swap:");
         for(String temp: al){
