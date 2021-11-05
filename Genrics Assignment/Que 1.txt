@@ -73,8 +73,8 @@ import java.util.Set;
 
 class Main {
     public static void main(String[] args) {
-        Employee e1 = new Employee(101,"naveen",21,6000,"IT");
-        Employee e2 = new Employee(102, "kumar",24,19000,"CSE");
+        Employee e1 = new Employee(101,"mahesh",31,8900,"IT");
+        Employee e2 = new Employee(102, "pandu",34,19900,"CSE");
 
         Set<Employee> getDetails = new HashSet<>();
         System.out.println("FIRST EMPLOYEE DETAILS");
