@@ -9,16 +9,17 @@ public class HashMapExample {
             HashMap<Integer, Double> map = new HashMap<>();
 
             // Add elements using put method
-            map.put(1,10.0 );
-            map.put(2, 20.0);
-            map.put(3, 30.0); //adding student id's with marks for 10 students in the class//
-            map.put(4, 40.0);
-            map.put(5, 50.0);
-            map.put(6, 60.0);
-            map.put(7, 70.0);
-            map.put(8, 80.0);
-            map.put(9, 90.0);
-            map.put(10, 100.0);
+            map.put(1,20.0 );
+            map.put(2, 30.0);
+            map.put(3, 40.0);
+            //adding student id's with marks for 10 students in the class//
+            map.put(4, 50.0);
+            map.put(5, 60.0);
+            map.put(6, 70.0);
+            map.put(7, 80.0);
+            map.put(8, 90.0);
+            map.put(9, 100.0);
+            map.put(10, 110.0);
 
 
             // Iterate the map using
