@@ -10,11 +10,11 @@ public class Pair {
             HashMap<String, String> myObj = new HashMap<>();
 
             // Add elements using put method
-            myObj.put("Naveen","CSE");
-            myObj.put("KUMAR","ECE");
-            myObj.put("AISHWARYA","EEE");
-            myObj.put("CHANDHINI","MECH");
-            myObj.put("RAMYA","CSE");
+            myObj.put("mahesh","MCA");
+            myObj.put("Pandu","CSE");
+            myObj.put("Naga Venkatesh","MSC");
+            myObj.put("HArish","CSE");
+            myObj.put("Sandeep","ECE");
 
            //adding student NAMES with THEIR STREAM for 5 students in the class//
 
